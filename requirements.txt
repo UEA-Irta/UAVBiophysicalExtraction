@@ -26,7 +26,7 @@ lazy_loader @ file:///C:/b/abs_3fs2i5w5p3/croot/lazy_loader_1718176758844/work
 mapclassify @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/mapclassify_1699559687323/work
 MarkupSafe @ file:///C:/Users/dev-admin/perseverance-python-buildout/croot/markupsafe_1707425732791/work
 matplotlib==3.9.2
-mkl-service==2.4.0
+mkl-service>=2.4.0
 mkl_fft @ file:///C:/Users/dev-admin/mkl/mkl_fft_1730823082242/work
 mkl_random @ file:///C:/Users/dev-admin/mkl/mkl_random_1730822522280/work
 networkx @ file:///C:/b/abs_36fmumtynt/croot/networkx_1720002497414/work
